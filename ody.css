@@ -1,0 +1,40 @@
+body
+{
+
+    background-color:rgb(104, 9, 9);
+    
+}
+
+
+div{
+    width:600px;
+    margin: auto;
+}
+
+
+p
+
+
+{
+color: rgb(247, 239, 239);
+font-size: 16pt;
+font-weight: bold;
+
+
+}
+
+img
+
+{
+    content: url("Formula.jpg");
+    width: 600px;
+    height: 320px;
+    border: 5px solid;
+    
+}
+
+table{
+    margin-left: auto;
+    
+}
+
